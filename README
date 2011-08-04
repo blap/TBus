@@ -1,7 +1,7 @@
 App em J2ME para adicionar/apagar/modificar suas prórias linhas/horários/locais de transporte, como ônibus e metrô.
 TBus é apenas um banco de dados.
 
-Se quiser somente os executáveis, baixe o arquivo TBus.zip, descompacte e instale dentro do seu celular.
+Se quiser somente os executáveis, baixe o arquivo TBus.zip, descompacte e instale dentro do seu celular, ou baixe os dois arquivos da pasta "dist".
 
 No momento o projeto se encontra inativo, mas continua funcional.
 
